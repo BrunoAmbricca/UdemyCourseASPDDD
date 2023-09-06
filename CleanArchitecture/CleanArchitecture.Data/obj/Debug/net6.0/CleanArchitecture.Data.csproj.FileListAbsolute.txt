@@ -1,0 +1,17 @@
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.deps.json
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.runtimeconfig.json
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.dll
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfo.cs
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CopyComplete
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.dll
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Data.dll
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache
+D:\Escritorio\Programacion\UdemyCourses\ASPDDD\UdemyCourseASPDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
